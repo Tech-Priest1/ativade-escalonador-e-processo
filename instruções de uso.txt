@@ -1,8 +1,10 @@
-Use  os seguintes comandos no terminal para baixar os node modules e iniaciar escalonador.ts e processos.ts: 
+Use  os seguintes comandos no terminal para baixar os node modules e iniaciar index.ts ou main.ts: 
 
 npm install
 
-npx ts-node escalonador.ts  
+npx ts-node main.ts 
 
-npx ts-node processos.ts  
+ou
+
+npx ts-node index.ts
 
